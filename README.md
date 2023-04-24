@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rubic</h1>
-<h3 align="center">A passionate AI developer from France</h3>
+<h1 align="center">Hi I'm Rubic</h1>
+<h3 align="center">Currently, I am in Microsoft School, studying Data AI development at Simplon.co in Roubaix.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
