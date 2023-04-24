@@ -1,4 +1,4 @@
-<h1 align="left">Hi I'm Rubic</h1>
+<h1 align="center">Hi I'm Rubic</h1>
 <h3>Currently, I am in Microsoft School by Simplon.co, studying Data AI development.</h3>
 
 
