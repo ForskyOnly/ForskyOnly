@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Rubic</h1>
-<h3>Currently, I am in Microsoft School, studying Data AI development at Simplon.co in Roubaix.</h3>
+<h3>Currently, I am in Microsoft School by Simplon.co, studying Data AI development.</h3>
 
 
 <h4 align="left">Connect with me:</h3>
