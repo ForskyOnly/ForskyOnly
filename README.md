@@ -37,8 +37,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/rubic">
+  <a href="https://github.com/forskyonly">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forskyonly&show_icons=true&theme=radical"/>
+</p>
+  <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forskyonly&layout=compact"/>
   </a>
 </p>
