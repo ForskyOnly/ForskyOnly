@@ -30,7 +30,7 @@
 </table>
 </p>
 
-![Cube]([https://i.gifer.com/Me3P.gif](https://i.gifer.com/V1SZ.gif))
+![Cube](https://i.gifer.com/Me3P.gif](https://i.gifer.com/V1SZ.gif)
 
 
 <p align="center">
