@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/rubic">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forskyonly&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubic&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forskyonly&layout=compact"/>
   </a>
 </p>
 
