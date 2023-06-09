@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://j.gifs.com/vbEpOA.gif">
+  <img src="https://j.gifs.com/vbEpOA.gif" width="100%">
 </p>
 
 
