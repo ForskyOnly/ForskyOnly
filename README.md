@@ -31,7 +31,10 @@
 </p>
 
 
-![Cube](https://j.gifs.com/vbEpOA.gif)
+<p align="center">
+  <img src="https://j.gifs.com/vbEpOA.gif">
+</p>
+
 
 
 <p align="center">
