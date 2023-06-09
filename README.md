@@ -31,7 +31,7 @@
 </p>
 
 
-![Cube](https://i.gifer.com/Me3P.gif)
+![Cube](https://j.gifs.com/vbEpOA.gif)
 
 
 <p align="center">
