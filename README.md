@@ -37,12 +37,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/forskyonly">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forskyonly&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forskyonly&layout=compact"/>
-  </a>
-</p>
+
 
 
 <h4 align="center">If you want to connect with me:</h3>
