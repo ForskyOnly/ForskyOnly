@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi I'm Rubic.</h3>
-<h3> Currently I am in Microsoft School by Simplon.co, studying Data and AI development.</h3>
+<h3> Currently I am at Microsoft School by Simplon.co, studying Data and AI development.</h3>
 
 
 
