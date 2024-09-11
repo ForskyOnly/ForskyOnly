@@ -1,6 +1,7 @@
 <h3 align="center">Hi I'm Rubic.</h3>
 
 <h3 align="center">My Languages and Tools:</h3>
+
 <p align="center"> 
 <table align="center">
   <tr> 
@@ -29,9 +30,9 @@
   </tr>
 </table>
 </p>
-<br>
+
 <p align="center">
-  <img src="https://j.gifs.com/vbEpOA.gif" width="100%">
+  <img src="https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif" alt="moon gif" width="512"/>
 </p>
 
 <h4 align="center">If you want to connect with me:</h4>
