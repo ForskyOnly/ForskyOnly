@@ -1,6 +1,6 @@
 <h3 align="center">Hi I'm Rubic.</h3>
 
-<h3>My Languages and Tools:</h3>
+<h3align="center">My Languages and Tools:</h3>
 <p align="center"> 
 <table align="center">
   <tr> 
@@ -36,5 +36,5 @@
 
 <h4 align="center">If you want to connect with me:</h4>
 <p align="center">
-<a href="https://linkedin.com/in/rubicgevorgyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubic gevorgyan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rubicgevorgyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubic gevorgyan" height="50" width="700" /></a>
 </p>
