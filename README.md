@@ -24,7 +24,7 @@
     <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.collibra.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.WVPD6ZpGdvZYnxezC_6yigHaDt?w=320&h=175&c=7&r=0&o=5&pid=1.7" alt ="Collibra" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.collibra.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.XKex_ZSHY9aYjmoj4OZ3UgHaHa?rs=1&pid=ImgDetMain" alt ="Collibra" width="40" height="40"/></a></td>
     <td align="center"><a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="Power BI" width="40" height="40"/></a></td>
   </tr>
 </table>
