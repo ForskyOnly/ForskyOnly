@@ -25,7 +25,7 @@
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.collibra.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.70998311de5cf4f2820b7bd35642c4da?rik=9oKiXdGOLYRACg&pid=ImgRaw&r=0" alt ="Collibra" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://mab1096.github.io/power-bi-logo.jpg" alt="Power BI" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.7f52519ac9ff21923e06cc6d2296984e?rik=iz%2fRoEnN3UF2Ng&pid=ImgRaw&r=0" alt="Power BI" width="40" height="40"/></a></td>
   </tr>
 </table>
 </p>
