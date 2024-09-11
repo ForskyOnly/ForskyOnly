@@ -1,16 +1,35 @@
-<h3 align="center">Hi I'm Rubic.</h3>
+<style>
+        body {
+            background: url('https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif') no-repeat center center fixed;
+            background-size: cover;
+            font-family: Arial, sans-serif;
+        }
 
-<h3 align="center">My Languages and Tools:</h3>
+        h3 {
+            text-align: center;
+            color: white;
+        }
 
-<p align="center"> 
-<table align="center">
-  <tr> 
-    <td align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.bf8a360172c825a1d2666a98664dbaa8?rik=raaFkfU7Ju%2fgPg&pid=ImgRaw&r=0" alt="bash" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+        .content {
+            text-align: center;
+            margin-top: 50px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h3>Hi, I'm Rubic.</h3>
+
+      <div class="content">
+          <h3>My Languages and Tools:</h3>
+          <table align="center">
+            <tr> 
+      <td align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.bf8a360172c825a1d2666a98664dbaa8?rik=raaFkfU7Ju%2fgPg&pid=ImgRaw&r=0" alt="bash" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
   </tr>
   <tr> 
     <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
@@ -30,12 +49,14 @@
   </tr>
 </table>
 </p>
-
+<br>
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif" alt="moon gif" width="512"/>
+  <img src="https://j.gifs.com/vbEpOA.gif" width="100%">
 </p>
 
-<h4 align="center">If you want to connect with me:</h4>
-<p align="center">
-<a href="https://linkedin.com/in/rubicgevorgyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubic gevorgyan" height="50" width="100%" /></a>
-</p>
+        </table>
+        <h4>If you want to connect with me:</h4>
+        <a href="https://linkedin.com/in/rubicgevorgyan" target="blank">Mon LinkedIn</a>
+    </div>
+</body>
+</html>
