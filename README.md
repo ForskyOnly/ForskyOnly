@@ -23,9 +23,9 @@
     <td align="center"><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
     <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.collibra.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.c0be161fe65758bbedce9737a81e834d?rik=3qv%2bRe3LQL6pNw&pid=ImgRaw&r=0" alt="collibra" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.collibra.com/" target="_blank" rel="noreferrer"><img src="[https://th.bing.com/th/id/R.c0be161fe65758bbedce9737a81e834d?rik=3qv%2bRe3LQL6pNw&pid=ImgRaw&r=0](https://vectorseek.com/wp-content/uploads/2023/04/Collibra-Logo-Vector.jpg)" alt="collibra" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI" width="40" height="40"/></a></td>
   </tr>
 </table>
 </p>
