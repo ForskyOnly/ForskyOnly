@@ -1,4 +1,4 @@
-
+<!--
 <p align="center"> 
 <table align="center">
   <tr> 
@@ -28,6 +28,6 @@
 </table>
 </p>
 <br>
-<p align="center">
+<p align="center"> -->
   <img src="https://j.gifs.com/vbEpOA.gif" width="100%">
 
